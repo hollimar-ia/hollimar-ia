@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on building a SCORM publishing plugin for the DITA-OT (3.6.1).
 <!--
 **hollimar-ia/hollimar-ia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
